@@ -11,7 +11,7 @@
                 <img src={profileImage} alt="" class="mx-auto mt-24 md:mt-0" />
             </div>
             <div class="flex flex-col text-center p-2 md:w-1/2 w-full">
-                <h1 class="text-gray-900 mb-10 font-medium">t4lcagy</h1>
+                <h1 class="text-gray-900 mb-10 font-medium">keccap256</h1>
                 <p class="mb-8 leading-relaxed">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     luctus, mauris non imperdiet vehicula, lorem nibh dapibus
